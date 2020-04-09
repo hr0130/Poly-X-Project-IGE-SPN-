@@ -14,7 +14,7 @@ This site is generated using `collectionbuilder-gh`, a project to generate a fre
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
 
- `collectionbuilder-gh` is intended as a simple template for hands-on teaching about digital libraries.
+`collectionbuilder-gh` is intended as a simple template for hands-on teaching about digital libraries.
 It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
 
 # Demo about features
