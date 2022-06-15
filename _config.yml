@@ -8,17 +8,17 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://evanwill.github.io
+url: https://hr0130.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /cb-gh-postcards
+baseurl: /Poly-X-Project-IGE-SPN-
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/cb-gh-postcards
+source-code: https://github.com/hr0130/Poly-X-Project-IGE-SPN-
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Northwest Postcards Collections
+title: Korean Mexico Postcards Collections
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: demo of two sided postcard objects
 # description appears in meta tags and other locations
